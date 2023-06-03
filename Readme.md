@@ -10,3 +10,4 @@ Updated: If you want to select what should be translated - just adding class="no
 
 ![image](https://user-images.githubusercontent.com/10575877/113137313-121ce800-922d-11eb-97e5-1a9b9c5610fa.png)
 
+original repo link: https://github.com/nofikoff/google-translate-js-in-one-click
